@@ -4,6 +4,8 @@ class EnvVariable{
   EnvVariable._();
   static final EnvVariable instance =EnvVariable._();
   String _envType='';
+
+  get debugMode => null;
 Future<void> init({required EnvTypeEnum envType})async{
   switch(envType){
 case EnvTypeEnum.dev:

@@ -77,12 +77,12 @@ flutter:
   assets:
     - .env.dev
     - .env.prod
-    # - lang/ar.json
-    # - lang/en.json
-    # - assets/images/core/
-    # - assets/images/admin/
-    # - assets/images/customer/
-    # - assets/svg/
+    - lang/ar.json
+    - lang/en.json
+    - assets/images/core/
+    - assets/images/admin/
+    - assets/images/customer/
+    - assets/svg/
 
 
   fonts:
