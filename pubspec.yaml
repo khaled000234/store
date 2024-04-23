@@ -75,8 +75,8 @@ flutter:
 
 
   assets:
-    # - .env.dev
-    # - .env.prod
+    - .env.dev
+    - .env.prod
     # - lang/ar.json
     # - lang/en.json
     # - assets/images/core/
